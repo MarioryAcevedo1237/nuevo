@@ -1,0 +1,45 @@
+html {
+  background-image: url("fondo3.jpg");
+}
+body{
+  color: black;
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding:0 20px 20px 20px;
+  border: 5px solid-black;
+  border-radius: 29px  29px   29px  29px;
+  -moz-border-radius: 29px  29px  29px  29px ;
+  -webkit-border-radius: 29px  29px  29px  29px ;
+  border: 15px solid #000000;
+background: rgba(235,233,249,1);
+background: -moz-linear-gradient(top, rgba(235,233,249,1) 0%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(235,233,249,1)), color-stop(50%, rgba(216,208,239,1)), color-stop(51%, rgba(206,199,236,1)), color-stop(100%, rgba(193,191,234,1)));
+background: -webkit-linear-gradient(top, rgba(235,233,249,1) 0%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+background: -o-linear-gradient(top, rgba(235,233,249,1) 0%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+background: -ms-linear-gradient(top, rgba(235,233,249,1) 0%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+background: linear-gradient(to bottom, rgba(235,233,249,1) 0%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ebe9f9', endColorstr='#c1bfea', GradientType=0 );
+border-radius: 35px 41px 33px 39px;
+-moz-border-radius: 35px 41px 33px 39px;
+-webkit-border-radius: 35px 41px 33px 39px;
+border: 11px solid #000000
+-webkit-box-shadow: 33px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 33px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 33px 10px 5px 0px rgba(0,0,0,0.75);
+}
+p{
+
+  color: #6C11E7;
+font-family: "modern Roman Latin";
+font-style: oblique;
+font size: 18px;
+  border: purple 2px solid;
+  margin: 20px;
+   font width: : bold;
+}
+h1 {
+
+  font size: 60px;
+  text-align: center;
+}
